@@ -17,3 +17,7 @@ Content-Type: application/json
 {
   "name": "Super Logo"
 }
+
+### Test Delete
+DELETE http://localhost:3001/logos/
+Content-Type: application/json
